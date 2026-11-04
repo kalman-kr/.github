@@ -29,3 +29,4 @@ We design, manufacture, and operate robotic systems for demanding environments.
 | Project | Description |
 | :--- | :--- |
 | [**AQUARM URDF Model**](AQUARM_REPOSITORY_URL) | URDF model of AQUARM for robotics development, simulation, and integration. |
+| [**AQUARM Docs**](https://kalman-kr.github.io/opensource-aquarm-docs) | Official documentation for AQUARM. |
