@@ -29,4 +29,5 @@ We design, manufacture, and operate robotic systems for demanding environments.
 | Project | Description |
 | :--- | :--- |
 | [**AQUARM URDF Model**](https://github.com/kalman-kr/aquarm_description) | URDF model of AQUARM for robotics development, simulation, and integration. |
+| [**AQUARM SDK**](https://github.com/kalman-kr/aquarm_sdk) |SDK for AQUARM, including MuJoCo simulation support and communication libraries. |
 | [**AQUARM Docs**](https://kalman-kr.github.io/opensource-aquarm-docs) | Official documentation for AQUARM. |
